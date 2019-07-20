@@ -1,7 +1,7 @@
 {
   "name": "Initial D Theme",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "This extension allows you to chase your Initial D dreams!",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "manifest_version": 2,
   "background": {
